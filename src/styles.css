@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  /* text-align: left; */
+}
+body {
+  background-color: #efefef;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-family: "Montserrat", sans-serif;
+  border: 0.5px solid black;
+}
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid rgb(209, 213, 219);
+  width: 70%;
+  margin: 1rem;
+  text-align: left;
+}
+a {
+  list-style: none;
+  color: black;
+  font-weight: bolder;
+}
+
+.university {
+  font-size: small;
+  color: grey;
+}
+
+.twitter {
+  color: lightseagreen;
+}
